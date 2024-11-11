@@ -1,3 +1,2 @@
-## Run script1 and script2 inside the DatabaseScripts folder to set up databases and tables in mssql.
+Run script1 and script2 from the assets folder in mssql database management software to set up databases and tables.
 
-## LiftSimGame is the main project file!
